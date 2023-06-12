@@ -1,5 +1,5 @@
 # Hex Prediction Method
-Hex predictor probability/premium prediction for mines
+Hex predictor probability/premium prediction for mines. **Free**
 
 # Requirements
 - Colorama
