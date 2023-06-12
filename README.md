@@ -1,7 +1,9 @@
 # Hex Prediction Method
 Hex predictor probability/premium prediction  **Free** for mines.
-\nThis is a **recreate** of their method and not their source.
-\nIt uses the same **algorithm** as hex predictor so it gives the same outcome but for free
+
+This is a **recreate** of their method and not their source.
+
+It uses the same **algorithm** as hex predictor so it gives the same outcome but for free
 
 # Requirements
 - Colorama
