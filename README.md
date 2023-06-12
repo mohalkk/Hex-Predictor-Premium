@@ -10,7 +10,7 @@ Hex predictor probability/premium prediction for mines
 3. Run the script and enjoy
 
 #  Proof Of Concept
-https://github.com/mohalkk/hex-prediction-method/assets/45693149/17f26775-6dd5-4de2-b213-da8333d3650c
+https://github.com/mohalkk/hex-prediction-method/assets/45693149/8dee531b-050a-4f3c-aba2-5ab61d5c6c52
 
 # Discord
  - Mohalk#4564
