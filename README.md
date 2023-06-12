@@ -5,7 +5,7 @@ Hex predictor probability/premium prediction for mines
 - Colorama
 
 # How To Use
-1. Put the python file with another file called "auth.txt"
+1. Place the python file with another file called "auth.txt" somewhere
 2. Paste your auth token inside auth.txt
 3. Run the script and enjoy
 
